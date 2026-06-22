@@ -415,9 +415,5 @@ python manage.py runserver
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
 <p align="center">
-  <img src="TON_LIEN_GIF_ANIME" width="400"/>
-</p>
-
-<p align="center">
   <sub>Projet réalisé dans le cadre de la Licence Professionnelle en Analyse Statistique à l'Institut Supérieur des Sciences de la Population (ISSP), Université Joseph Ki-Zerbo, Burkina Faso.</sub>
 </p>
